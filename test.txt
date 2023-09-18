@@ -1,0 +1,115 @@
+<!-- Team Section -->
+  <section class="team-section">
+    <div class="container">
+       <div class="row">
+           <div class="section-title">
+              <h2>Our Team</h2>
+           </div>
+       </div>
+       <div class="row">
+          <!-- card start -->
+          <div class="card">
+             <div class="card-img">
+                <img src="./src/assets/images/1.jpg" alt="team">
+             </div>
+             <div class="card-info">
+                <h3>Soshiv Upreti</h3>
+                <p>Product Designer</p>
+                <div class="social-icons">
+                  <a href="#"><img src="./src/assets/icons/facebook.svg" alt="facebook"></a>
+                  <a href="#"><img src="./src/assets/icons/twitter.svg" alt="twitter"></a>
+                  <a href="#"><img src="./src/assets/icons/instagram.svg" alt="instagram"></a>
+                  <a href="#"><img src="./src/assets/icons/linkedin.svg" alt="linkedin"></a>
+                </div>
+             </div>
+          </div>
+          <!-- card end -->
+          <!-- card start -->
+          <div class="card">
+             <div class="card-img">
+                <img src="./src/assets/images/2.jpg" alt="team">
+             </div>
+             <div class="card-info">
+                <h3>Soshiv Upreti</h3>
+                <p>Product Designer</p>
+                <div class="social-icons">
+                  <a href="#"><img src="./src/assets/icons/facebook.svg" alt="facebook"></a>
+                  <a href="#"><img src="./src/assets/icons/twitter.svg" alt="twitter"></a>
+                  <a href="#"><img src="./src/assets/icons/instagram.svg" alt="instagram"></a>
+                  <a href="#"><img src="./src/assets/icons/linkedin.svg" alt="linkedin"></a>
+                </div>
+             </div>
+          </div>
+          <!-- card end -->
+          <!-- card start -->
+          <div class="card">
+             <div class="card-img">
+                <img src="./src/assets/images/3.jpg" alt="team">
+             </div>
+             <div class="card-info">
+                <h3>Soshiv Upreti</h3>
+                <p>Product Designer</p>
+                <div class="social-icons">
+                  <a href="#"><img src="./src/assets/icons/facebook.svg" alt="facebook"></a>
+                  <a href="#"><img src="./src/assets/icons/twitter.svg" alt="twitter"></a>
+                  <a href="#"><img src="./src/assets/icons/instagram.svg" alt="instagram"></a>
+                  <a href="#"><img src="./src/assets/icons/linkedin.svg" alt="linkedin"></a>
+                </div>
+             </div>
+          </div>
+          <!-- card end -->
+          <!-- card start -->
+          <div class="card">
+             <div class="card-img">
+                <img src="./src/assets/images/4.jpg" alt="team">
+             </div>
+             <div class="card-info">
+                <h3>Soshiv Upreti</h3>
+                <p>Product Designer</p>
+                <div class="social-icons">
+                  <a href="#"><img src="./src/assets/icons/facebook.svg" alt="facebook"></a>
+                  <a href="#"><img src="./src/assets/icons/twitter.svg" alt="twitter"></a>
+                  <a href="#"><img src="./src/assets/icons/instagram.svg" alt="instagram"></a>
+                  <a href="#"><img src="./src/assets/icons/linkedin.svg" alt="linkedin"></a>
+                </div>
+             </div>
+          </div>
+          <!-- card end -->
+          <!-- card start -->
+          <div class="card">
+             <div class="card-img">
+                <img src="./src/assets/images/5.jpg" alt="team">
+             </div>
+             <div class="card-info">
+                <h3>Soshiv Upreti</h3>
+                <p>Product Designer</p>
+                <div class="social-icons">
+                  <a href="#"><img src="./src/assets/icons/facebook.svg" alt="facebook"></a>
+                  <a href="#"><img src="./src/assets/icons/twitter.svg" alt="twitter"></a>
+                  <a href="#"><img src="./src/assets/icons/instagram.svg" alt="instagram"></a>
+                  <a href="#"><img src="./src/assets/icons/linkedin.svg" alt="linkedin"></a>
+                </div>
+             </div>
+          </div>
+          <!-- card end -->
+          <!-- card start -->
+          <div class="card">
+             <div class="card-img">
+                <img src="./src/assets/images/6.jpg" alt="team">
+             </div>
+             <div class="card-info">
+                <h3>Soshiv Upreti</h3>
+                <p>Product Designer</p>
+                <div class="social-icons">
+                  <a href="#"><img src="./src/assets/icons/facebook.svg" alt="facebook"></a>
+                  <a href="#"><img src="./src/assets/icons/twitter.svg" alt="twitter"></a>
+                  <a href="#"><img src="./src/assets/icons/instagram.svg" alt="instagram"></a>
+                  <a href="#"><img src="./src/assets/icons/linkedin.svg" alt="linkedin"></a>
+                </div>
+             </div>
+          </div>
+          <!-- card end -->
+       </div>
+    </div>
+  </section>
+</body>
